@@ -1,4 +1,4 @@
-#python program to check prime number between interval
+#python program to find armstrong number in interval
 
 low_value = int(input("Enter the low number : "))
 upper_value = int(input("Enter the upper number : "))
